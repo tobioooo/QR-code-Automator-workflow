@@ -4,7 +4,7 @@ Workflow I created for the Automator app on macOS
 to quickly display text,number,email addresses or web pages as QR code for convenient transfer to cell phone. 
 
 Install:
-Just open them with the Automator app on macOS.
+Just open it with the Automator app on macOS.
 
 Usage:
 
